@@ -23,7 +23,7 @@ Howdy! I’m James, I am passionate about uniting GIS and ecology to make meanin
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"><br>Python
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"><br>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"><br>Linux
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ Howdy! I’m James, I am passionate about uniting GIS and ecology to make meanin
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"><br>CSS3
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"><br>Linux
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"><br>JavaScript
     </td>
   </tr>
 </table>
